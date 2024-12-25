@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawani Mahinsa</h1>
-- 🌱 I’m currently learning **react**
+
 
 - 📫 How to reach me **pawanimahinsa100@gmail.com**
 
