@@ -6,7 +6,7 @@
 <tr border="none">
 
   
-
+<tr >
 
 - 👧🎓 I’m an Undergraduate at **UWU**
 
@@ -16,7 +16,7 @@
   
 
 
-
+</tr>
 
 </tr>
 </table>
