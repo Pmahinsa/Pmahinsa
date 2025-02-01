@@ -6,7 +6,7 @@
 <tr border="none">
 
   
-<td align="center">
+<td align="left">
 
 - 👧🎓 I’m an Undergraduate at **UWU**
 
