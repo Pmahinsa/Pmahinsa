@@ -6,7 +6,7 @@
 <tr border="none">
 
   
-<tr >
+<td align="center">
 
 - 👧🎓 I’m an Undergraduate at **UWU**
 
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **pawanimahinsa100@gmail.com**
   
+</td>
 
 
-</tr>
 
 </tr>
 </table>
