@@ -24,7 +24,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="www.linkedin.com/in/pawani-mahinsa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="pawanimahinsa" height="50" width="50" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/pawani-mahinsa" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="pawanimahinsa" height="50" width="50" /></a>
 
 ---
 
